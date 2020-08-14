@@ -11,5 +11,6 @@ The purpose of this project is to display the IP address of a hostname. This wor
 **Variable**
 
 displayMessage: This variable will be used later on in the project to help display the IP address to the user. 
+
 hostname: This variable will be use by the user to input the site
 
