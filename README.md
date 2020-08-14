@@ -14,3 +14,6 @@ displayMessage: This variable will be used later on in the project to help displ
 
 hostname: This variable will be use by the user to input the site
 
+**Code**
+
+![](https://github.com/Fran0616/getIPAddress/blob/master/Screen%20Shot%202020-08-14%20at%202.10.35%20PM.png)
